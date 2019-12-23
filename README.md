@@ -48,10 +48,3 @@ down the amount of credit loss. Identification of such applicants using EDA is t
 In other words, the company wants to understand the driving factors (or driver variables) behind loan
 default, i.e. the variables which are strong indicators of default. The company can utilize this knowledge
 for its portfolio and risk assessment.
-Dataset and Data Dictionary: Attached
-Results Expected
-1. Write all your code in one well-commented R file; briefly mention the insights and observations
-from the analysis.
-2. Explain the results of univariate, bivariate analysis etc. in business terms.
-3. Include visualizations and summarize the most important results.
-4. Form narrative questions from the dataset? Try to answer those questions with supportive
